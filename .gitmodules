@@ -25,3 +25,6 @@
 [submodule "plugins/AmalgamatedHarmonics"]
 	path = plugins/AmalgamatedHarmonics
 	url = https://github.com/jhoar/AmalgamatedHarmonics.git
+[submodule "plugins/ArableInstruments"]
+	path = plugins/ArableInstruments
+	url = https://github.com/adbrant/ArableInstruments.git
