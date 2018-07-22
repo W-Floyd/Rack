@@ -19,3 +19,6 @@
 [submodule "plugins/Alikins-rack-plugins"]
 	path = plugins/Alikins-rack-plugins
 	url = https://github.com/alikins/Alikins-rack-plugins.git
+[submodule "plugins/LFSR"]
+	path = plugins/LFSR
+	url = https://github.com/alto777/LFSR.git
