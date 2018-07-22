@@ -28,3 +28,6 @@
 [submodule "plugins/ArableInstruments"]
 	path = plugins/ArableInstruments
 	url = https://github.com/adbrant/ArableInstruments.git
+[submodule "plugins/AS"]
+	path = plugins/AS
+	url = https://github.com/AScustomWorks/AS.git
