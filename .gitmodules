@@ -31,3 +31,6 @@
 [submodule "plugins/AS"]
 	path = plugins/AS
 	url = https://github.com/AScustomWorks/AS.git
+[submodule "plugins/AudibleInstruments"]
+	path = plugins/AudibleInstruments
+	url = https://github.com/VCVRack/AudibleInstruments.git
