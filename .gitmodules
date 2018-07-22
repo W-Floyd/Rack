@@ -22,3 +22,6 @@
 [submodule "plugins/LFSR"]
 	path = plugins/LFSR
 	url = https://github.com/alto777/LFSR.git
+[submodule "plugins/AmalgamatedHarmonics"]
+	path = plugins/AmalgamatedHarmonics
+	url = https://github.com/jhoar/AmalgamatedHarmonics.git
