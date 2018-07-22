@@ -16,3 +16,6 @@
 [submodule "dep/rtaudio"]
 	path = dep/rtaudio
 	url = https://github.com/thestk/rtaudio.git
+[submodule "plugins/Alikins-rack-plugins"]
+	path = plugins/Alikins-rack-plugins
+	url = https://github.com/alikins/Alikins-rack-plugins.git
